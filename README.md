@@ -1,12 +1,14 @@
 ### Day1_100-Days
-Check out what I did on my first day of Python with #replit100daysofcode!
-Ya, itu banyak sekali! Ini adalah komitmen besar, tetapi kamu pasti bisa!
 
-Python adalah bahasa pemrograman yang bagus untuk pemula.
+Wow, One Hundred Days?!
+Yeah, that's a lot! It's a big commitment, but you'll do great!
 
-Mudah dipelajari,
-Memiliki komunitas yang aktif dan suportif,
-Menawarkan beragam kesempatan dalam pengembangan web, game, dan ilmu data,
-Replit adalah tempat terbaik untuk belajar pemrograman karena tidak ada persiapan awal - yang berarti kamu tidak perlu mengunduh, mempersiapkan, atau menginstal apa pun. Kamu sudah melakukan semua pekerjaan yang diperlukan karena kamu sudah berada di sini!
+Python is a great language for beginners
 
-Yang perlu kamu lakukan sekarang hanyalah mengikuti video, melanjutkan ke bab 
+⚡️It's easy to learn
+⚡️Has an active supportive community
+⚡️Offers versatile opportunities in web development, games, data science
+⚡️Replit is the best place to learn to code because there's zero set up - 
+   which means you do not have to download, set up, or install anything. You already did all the work needed because you are here!
+
+All you need to do now is follow along with the video, go from one chapter to the next in this tutorial panel, and just have fun! Now let's go!
