@@ -14,7 +14,8 @@ Python is a great language for beginners
 All you need to do now is follow along with the video, go from one chapter to the next in this tutorial panel, and just have fun! Now let's go!
 
 ### Progress in Coding
-This repository is created to document my progress in coding.
+
+This repository is created to document my progress in coding.<br/><br/>
 Here, I will update my progress regularly to keep track of my improvement.
 
 Progress
