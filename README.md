@@ -5,7 +5,7 @@ Yeah, that's a lot! It's a big commitment, but you'll do great!
 
 Python is a great language for beginners
 
-⚡️It's easy to learn
+⚡️It's easy to learn\
 ⚡️Has an active supportive community
 ⚡️Offers versatile opportunities in web development, games, data science
 ⚡️Replit is the best place to learn to code because there's zero set up - 
