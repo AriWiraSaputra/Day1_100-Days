@@ -30,7 +30,8 @@ Here, I will update my progress regularly to keep track of my improvement.
                                                             program or application
     3. Days 3      Concatenate              16.03.23        Concatenate is the process of merging or 
                                                             combining multiple strings into one          
-                                                     
+    4. Days 4      "Print" In Color!        17.03.23        This code uses ANSI escape sequences to
+                                                            print colored text                              
 
      
     ------------------------------------------------------------------------------------------------
