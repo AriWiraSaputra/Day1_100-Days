@@ -25,8 +25,11 @@ Here, I will update my progress regularly to keep track of my improvement.
     ------------------------------------------------------------------------------------------------
     1. Days 1      Print Statements         16.03.23        the Print Statement is used to display
                                                             output to the screen or console
-    2. Days 2           halo                16.03.23              Contoh row yang lebih
-    3. Days 3           halo                16.03.23              Contoh row yang lebih          
+    2. Days 2      Taking user input        16.03.23        Taking user input the process of gathering 
+                                                            information from a user through a 
+                                                            program or application
+    3. Days 3      Concatenate              16.03.23        Concatenate is the process of merging or 
+                                                            combining multiple strings into one          
                                                      
 
      
