@@ -20,9 +20,9 @@ Here, I will update my progress regularly to keep track of my improvement.
 
 ### Progres : <br/> ###
 
-    ------------------------------------------------------------------------------------------------
-       Days            Tittle                veris                     Description  
-    ------------------------------------------------------------------------------------------------
+    ------------------------------------------------------------------------------------------------------
+       Days            Tittle                veris                        Description  
+    ------------------------------------------------------------------------------------------------------
     1. Days 1      Print Statements         16.03.23        the Print Statement is used to display
                                                             output to the screen or console
     2. Days 2      Taking user input        16.03.23        Taking user input the process of gathering 
@@ -32,9 +32,10 @@ Here, I will update my progress regularly to keep track of my improvement.
                                                             combining multiple strings into one          
     4. Days 4      "Print" In Color!        17.03.23        This code uses ANSI escape sequences to
                                                             print colored text                              
-
+    5. Days 5      "If and Else statement   18.03.23        In an "if" statement, if the condition is
+                                                            not met, the "else" statement will be executed
      
-    ------------------------------------------------------------------------------------------------
+    ------------------------------------------------------------------------------------------------------
 
     Table: On Progress 100 Days
     Version is date pengerjaan
