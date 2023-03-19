@@ -1,23 +1,18 @@
-# Solution (NO Peeking!)
+# Solution (No Peeking!)
 
-<details> <summary> 👀 Answer  </summary>
+<details> <summary> 👀 Answer</summary>
 
-``` python
-print ("Are you a superfan of 'The Big Bang Theory' or a fake fan?")
+```python
+food = input("Name a type of food: ")
+plant = input("Name a plant: ")
+cookingType = input("What is a way to cook something?")
+burntFood = input("How do you describe burnt food?")
+householdItem = input("Name something in your house: ")
+
 print()
-print("Answer these questions to find out.")
+print("Tonight's dinner:")
 
-Glasses = input("Does someone wear glasses?")
-if Glasses == "yes":
-  print("Correct!")
-else:
-  print("Wrong!")
-  WhoGlasses = input("And who wears glasses?")
-  if WhoGlasses == "Leonard":
-    print("You got it")
-  else:
-    print("Try again!")
+print("For dinner you should make", cookingType, food, "with", burntFood, plant, "on a plate of", householdItem)
 ```
-
 
 </details>
