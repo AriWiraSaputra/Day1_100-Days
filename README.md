@@ -40,7 +40,11 @@ Here, I will update my progress regularly to keep track of my improvement.
     7. Days 7      Nesting Dolls Code       19.03.23        nesting is one statement within another statement 
                                                             or block of code, such as placing an "if" statement 
                                                             within another "if" statement or within a "for" 
-                                                            loop or "while" loop.
+                                                            loop or "while" loop
+    8. Days 8      Affirmation Generator    19.03.23        Today's focus is using all the skills you have 
+                                                            learned so far: a.input and output. b. concatenation.
+                                                            c. if statements. d. nested if statements                                             
+                                                            
     ------------------------------------------------------------------------------------------------------
 
     Table: On Progress 100 Days
