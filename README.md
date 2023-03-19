@@ -21,7 +21,7 @@ Here, I will update my progress regularly to keep track of my improvement.
 ### Progres : <br/> ###
 
     ------------------------------------------------------------------------------------------------------
-       Days            Tittle                veris                        Description  
+       Days            Tittle                version                      Description  
     ------------------------------------------------------------------------------------------------------
     1. Days 1      Print Statements         16.03.23        the Print Statement is used to display
                                                             output to the screen or console
@@ -34,7 +34,13 @@ Here, I will update my progress regularly to keep track of my improvement.
                                                             print colored text                              
     5. Days 5      "If and Else statement   18.03.23        In an "if" statement, if the condition is
                                                             not met, the "else" statement will be executed
-     
+    6. Days 6      What the elif this is    18.03.23        "elif" is short for "else if" to evaluate multiple 
+                                                            conditions simultaneously. If the first condition 
+                                                            is not met, the next condition will be evaluated
+    7. Days 7      Nesting Dolls Code       19.03.23        nesting is one statement within another statement 
+                                                            or block of code, such as placing an "if" statement 
+                                                            within another "if" statement or within a "for" 
+                                                            loop or "while" loop.
     ------------------------------------------------------------------------------------------------------
 
     Table: On Progress 100 Days
