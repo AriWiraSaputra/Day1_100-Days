@@ -1,22 +1,18 @@
 # Solution (No Peeking!)
 
-<details> <summary> 👀 Answer  </summary>
+<details> <summary> 👀 Answer</summary>
 
 ```python
-myBill = float(input("What was the bill?: "))
-numberOfPeople = int(input("How many people?: "))
-tip = int(input("What percent tip do you want to leave: 15, 18, or 20 percent?"))
+food = input("Name a type of food: ")
+plant = input("Name a plant: ")
+cookingType = input("What is a way to cook something?")
+burntFood = input("How do you describe burnt food?")
+householdItem = input("Name something in your house: ")
 
+print()
+print("Tonight's dinner:")
 
-bill_with_tip = tip / 100 * myBill + myBill
-bill_per_person = bill_with_tip / numberOfPeople
-final_amount = round(bill_per_person, 2)
-
-
-print("You all owe", final_amount)
-
+print("For dinner you should make", cookingType, food, "with", burntFood, plant, "on a plate of", householdItem)
 ```
-
-
 
 </details>
