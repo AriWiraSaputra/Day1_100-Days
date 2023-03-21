@@ -44,7 +44,10 @@ Here, I will update my progress regularly to keep track of my improvement.
     8. Days 8      Affirmation Generator    19.03.23        Today's focus is using all the skills you have 
                                                             learned so far: a.input and output. b. concatenation.
                                                             c. if statements. d. nested if statements                                             
-                                                            
+    9. Days 9      Casting Spells on        20.03.23        These inequality symbols can be used to create more 
+                   Your Code                                complex conditions in if statements, allowing you to 
+                                                            make decisions based on multiple conditions.
+                                                                     
     ------------------------------------------------------------------------------------------------------
 
     Table: On Progress 100 Days
