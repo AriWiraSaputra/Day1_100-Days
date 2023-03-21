@@ -47,7 +47,8 @@ Here, I will update my progress regularly to keep track of my improvement.
     9. Days 9      Casting Spells on        20.03.23        These inequality symbols can be used to create more 
                    Your Code                                complex conditions in if statements, allowing you to 
                                                             make decisions based on multiple conditions.
-                                                                     
+   10. Days 10     Show Me the $$           21.03.23        Code basic math principles (+, -, *, /), 
+                                                            build your own tip calculator                                                    
     ------------------------------------------------------------------------------------------------------
 
     Table: On Progress 100 Days
