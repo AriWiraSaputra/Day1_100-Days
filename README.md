@@ -48,7 +48,10 @@ Here, I will update my progress regularly to keep track of my improvement.
                    Your Code                                complex conditions in if statements, allowing you to 
                                                             make decisions based on multiple conditions.
    10. Days 10     Show Me the $$           21.03.23        Code basic math principles (+, -, *, /), 
-                                                            build your own tip calculator                                                    
+                                                            build your own tip calculator 
+   11. Days 11     525,600 minutes          23.03.23        terjemahkan "525,600 minutes" is a phrase made popular 
+                                                            by the song "Seasons of Love" from the musical Rent.
+                                                            It refers to the number of minutes in a year.
     ------------------------------------------------------------------------------------------------------
 
     Table: On Progress 100 Days
