@@ -1,37 +1,27 @@
 # Solution (No Peeking!)
 
- <details> <summary> 👀 Answer  </summary>
-    
-```python
-print("Exam Grade Calculator")
-print()
-name_of_exam = input("Name of exam: ")
-print()
-total_score = int(input("Max. Possible Score:"))
-your_score = int(input("Your score: "))
-print()
+<details> <summary> 👀 Answer  </summary>
+  
+``` python
+
+days_this_year = int(input("How many days are in this year?"))
+
+days_in_year = 365
+days_in_leapyear = 366
+hours_in_day = 24
+minutes_in_hour = 60
+seconds_in_minute = 60
 
 
+result = days_in_year * hours_in_day * minutes_in_hour * seconds_in_minute
 
-number_score = float(your_score / total_score)
-final_number = round(number_score, 2)
-final_perc = round(float(your_score / total_score)*100, 2)
+leapyear_result = days_in_leapyear * hours_in_day * minutes_in_hour * seconds_in_minute
 
-print("You got",final_perc,"%")
 
-if final_number >= .90:
-  print("Your letter score is an A+")
-elif final_number >= .80 and final_number <= .89:
-  print("Your letter grade is an A-.")
-elif final_number >= .70 and final_number <= .79:
-  print("Your letter score is a B.")
-elif final_number >= .60 and final_number <= .69:
-  print("Your letter grade is a C.")
-elif final_number >= .50 and final_number <= .59:
-  print("Your letter grade is a D.")
-elif final_number <= .49:
-  print("Your letter grade is a U.")
-else: 
-  print("Try again!")
-```
-</details>
+if days_this_year == 366:
+  print("Number of seconds in a leap year are", leapyear_result)
+else:
+  print("Number of seconds in a year are", result)
+
+  ```
+  </details>

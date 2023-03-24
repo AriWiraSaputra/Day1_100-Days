@@ -37,4 +37,3 @@ To learn more about publishing repls, visit our [docs](https://docs.replit.com/h
 
 Join our [100 Days of Code Community](https://ask.replit.com/t/about-100-days-of-code/) and our [Discord channel](https://discord.gg/replit).
   
-
