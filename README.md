@@ -52,9 +52,12 @@ Here, I will update my progress regularly to keep track of my improvement.
    11. Days 11     525,600 minutes          23.03.23        terjemahkan "525,600 minutes" is a phrase made popular 
                                                             by the song "Seasons of Love" from the musical Rent.
                                                             It refers to the number of minutes in a year.
-   13. Days 12     Find All the Bugs        23.03.23        This course has taught you to squash bugs like a 
+   12. Days 12     Find All the Bugs        23.03.23        This course has taught you to squash bugs like a 
                                                             true programmer. Find the errors and start 
                                                             debugging like a pro
+   13. Days 13     Gradebook Builder        24.03.23        Here is a grading scale to help you decide the letter 
+                                                            grade the user received (feel free to use a different 
+                                                            grading scale if you like.)
     ------------------------------------------------------------------------------------------------------
 
     Table: On Progress 100 Days
