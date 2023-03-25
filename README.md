@@ -47,20 +47,22 @@ Here, I will update my progress regularly to keep track of my improvement.
     9. Days 9      Casting Spells on        20.03.23        These inequality symbols can be used to create more 
                    Your Code                                complex conditions in if statements, allowing you to 
                                                             make decisions based on multiple conditions.
-   10. Days 10     Show Me the $$           21.03.23        Code basic math principles (+, -, *, /), 
+    10. Days 10    Show Me the $$           21.03.23        Code basic math principles (+, -, *, /), 
                                                             build your own tip calculator 
-   11. Days 11     525,600 minutes          23.03.23        terjemahkan "525,600 minutes" is a phrase made popular 
+    11. Days 11    525,600 minutes          23.03.23        terjemahkan "525,600 minutes" is a phrase made popular 
                                                             by the song "Seasons of Love" from the musical Rent.
                                                             It refers to the number of minutes in a year.
-   12. Days 12     Find All the Bugs        23.03.23        This course has taught you to squash bugs like a 
+    12. Days 12    Find All the Bugs        23.03.23        This course has taught you to squash bugs like a 
                                                             true programmer. Find the errors and start 
                                                             debugging like a pro
-   13. Days 13     Gradebook Builder        24.03.23        Here is a grading scale to help you decide the letter 
+    13. Days 13    Gradebook Builder        24.03.23        Here is a grading scale to help you decide the letter 
                                                             grade the user received (feel free to use a different 
                                                             grading scale if you like.)
-   14. Days 14     Rock, Paper, Scissors    25.03.23        Today, you are going to build a rock, paper, scissors game.
+    14. Days 14    Rock, Paper, Scissors    25.03.23        Today, you are going to build a rock, paper, scissors game.
                                                             Start with this code below to ensure that whenever you use 
                                                             input, each player cannot see what the other player typed in
+    
+  
    
    ------------------------------------------------------------------------------------------------------
 
