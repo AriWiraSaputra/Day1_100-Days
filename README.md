@@ -58,6 +58,9 @@ Here, I will update my progress regularly to keep track of my improvement.
    13. Days 13     Gradebook Builder        24.03.23        Here is a grading scale to help you decide the letter 
                                                             grade the user received (feel free to use a different 
                                                             grading scale if you like.)
+   14. Days 14     Rock, Paper, Scissors    25.03.23        Today, you are going to build a rock, paper, scissors game.
+                                                            Start with this code below to ensure that whenever you use 
+                                                            input, each player cannot see what the other player typed in
     ------------------------------------------------------------------------------------------------------
 
     Table: On Progress 100 Days
